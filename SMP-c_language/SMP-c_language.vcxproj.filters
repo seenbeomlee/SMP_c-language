@@ -15,16 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="loop_prob1.c">
+    <ClCompile Include="array_prob1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="loop_prob2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="loop_prob7.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="casting_prob1.c">
+    <ClCompile Include="Calculator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
