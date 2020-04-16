@@ -5,7 +5,7 @@
 int main()
 {
 	int iCount;
-
+	float x;
 	// int seed;
 	// seed = time(NULL);
 	// srand(seed);
@@ -15,6 +15,16 @@ int main()
 	for (iCount = 0; iCount < 10; iCount++) {
 		printf("³­¼ö ¿­ %d = %d\n", iCount, rand());
 	}
+
+	
+
+	/*
+	x = rand() / (float)RAND_MAX;
+
+	printf("x = %f\n", x);
+	*/
+	
+	
 
 	return 0;
 }
