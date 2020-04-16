@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include<stdlib.h>
+#include<time.h>
+
+int main()
+{
+	int iCount;
+
+	// int seed;
+	// seed = time(NULL);
+	// srand(seed);
+
+	printf("난수의 최대값 = %d \n", RAND_MAX);
+
+	for (iCount = 0; iCount < 10; iCount++) {
+		printf("난수 열 %d = %d\n", iCount, rand());
+	}
+
+	return 0;
+}
+

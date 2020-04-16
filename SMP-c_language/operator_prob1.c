@@ -30,19 +30,19 @@ int main() {
 
 void add(int x, int y) {
 
-	printf("x + y = %d 입니다.", x + y);
+	printf("%d + %d = %d 입니다.",x, y, x + y);
 }
 
 void sub(int x, int y) {
-	printf("x - y = %d 입니다.", x - y);
+	printf("%d - %d = %d 입니다.",x, y, x - y);
 }
 
 void mul(int x, int y) {
-	printf("x * y = %d 입니다.", x * y);
+	printf("%d * %d = %d 입니다.",x, y, x * y);
 }
 
 void div(int x, int y) {
 	float result;
-	result = (float)x / (float)y;
-	printf("x / y = %f 입니다.", result);
+	result = x / (float)y;
+	printf("%d / %d = %.2f 입니다.",x , y, result);
 }
