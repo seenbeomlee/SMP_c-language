@@ -10,9 +10,9 @@ int temp() {
 
 	int result;
 	/* if i put 'srand()' here, it send same results !! */
-	srand(time(NULL));
+	
 	/* if we give time_delay then, it send differnet results !! */
-	// scanf("%d", &result);
+	scanf("%d", &result);
 	result = rand() % 100 + 1;
 
 	if (result <= 14) return 1;
@@ -26,7 +26,7 @@ int temp() {
 int main() {
 	int result, i;
 	/* it can solve this problem */
-	// srand(time(NULL));
+    srand(time(NULL));
 	 
 	for (i = 0; i < 10; i++) {
 		result = temp();

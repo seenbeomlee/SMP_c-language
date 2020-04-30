@@ -8,7 +8,7 @@ int main() {
 	int num;
 
 	printf("몇 줄의 피라미드?: ");
-	scanf_s("%d", &num);
+	scanf("%d", &num);
 
 	make(num);
 	return 0;

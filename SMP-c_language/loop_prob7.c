@@ -12,7 +12,7 @@ int main() {
 	while(1) {
 
 		if (i == n) break;
-
+		
 		if (n % i == 0) {
 			n /= i;
 			printf("%d x ", i);
