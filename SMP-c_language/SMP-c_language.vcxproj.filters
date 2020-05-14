@@ -18,40 +18,19 @@
     <ClCompile Include="array_prob1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="loop_prob1.c">
+    <ClCompile Include="recursive_prob3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="loop_prob2.c">
+    <ClCompile Include="recursive_fibo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="loop_prob7.c">
+    <ClCompile Include="array_prob2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="operator_prob1.c">
+    <ClCompile Include="structure.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="rand_prob1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="rand_prob2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operator_prob2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="recursive_prob1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="recursive_prob2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ASSN1_help.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_example1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="srand_error.c">
+    <ClCompile Include="recursive_hanoi.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
