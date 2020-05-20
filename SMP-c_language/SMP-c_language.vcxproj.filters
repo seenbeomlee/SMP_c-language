@@ -15,22 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="array_prob1.c">
+    <ClCompile Include="challenge_5-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="recursive_prob3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="recursive_fibo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="array_prob2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="structure.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="recursive_hanoi.c">
+    <ClCompile Include="challenge_5-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
