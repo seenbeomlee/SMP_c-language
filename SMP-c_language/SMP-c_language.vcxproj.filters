@@ -21,5 +21,17 @@
     <ClCompile Include="challenge_5-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="linked-list_one-direction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="linked-list_bi-direction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="linked-list_prob1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array_prob3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
