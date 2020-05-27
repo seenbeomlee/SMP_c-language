@@ -17,11 +17,12 @@ int main()
 
 void set_min_prt(int* arr, int size, int** pmin) {
 	int i;
-	*pmin = arr; /* blank */
+	*pmin = &arr[0]; /* blank */
 
 	for (i = 1; i < size; i++) { /* blank */
 		if ( **pmin > arr[i]) { /* blank */
 			*pmin = &arr[i];
+			/* **pmin = arr[i] is not correct !! because it will change the value of array elements */
 		}
 	}
 	return;

@@ -3,6 +3,7 @@
 struct stu {
 	int grade;
 	char name[20];
+
 };
 
 typedef struct stu stu;

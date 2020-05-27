@@ -15,22 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="challenge_5-2.c">
+    <ClCompile Include="Sort_selection-sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="challenge_5-1.c">
+    <ClCompile Include="Sort_insertion-sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="linked-list_one-direction.c">
+    <ClCompile Include="Sort_bubble-sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="linked-list_bi-direction.c">
+    <ClCompile Include="Sort_merge-sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="linked-list_prob1.c">
+    <ClCompile Include="sort_prob1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="array_prob3.c">
+    <ClCompile Include="sort_prob2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Search_sequential-search.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
