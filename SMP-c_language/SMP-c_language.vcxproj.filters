@@ -15,25 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sort_selection-sort.c">
+    <ClCompile Include="Palindrome.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Sort_insertion-sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Sort_bubble-sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Sort_merge-sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sort_prob1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sort_prob2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Search_sequential-search.c">
+    <ClCompile Include="dynamic-allocation_matrix.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
