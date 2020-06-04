@@ -32,4 +32,4 @@ int main() {
 	printf("Lower: %s\n", str_to_lower(str));
 
 	return 0;
-}
+} //
