@@ -15,16 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Palindrome.c">
+    <ClCompile Include="buffer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="dynamic-allocation_matrix.c">
+    <ClCompile Include="make_a_diamond.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="string_ASCII.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_prob_hard.c">
+    <ClCompile Include="make_a_X.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
